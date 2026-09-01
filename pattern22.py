@@ -1,4 +1,5 @@
 n = int(input("enter: "))
+
 for i in range(2*n-1):
     for j in range(2*n-1):
         top=i
